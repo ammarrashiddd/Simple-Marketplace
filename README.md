@@ -16,5 +16,5 @@ Marketplace ini memungkinkan pengguna untuk:
 ## ⚙️ Instalasi
 Clone repository ini ke komputer lokal:
 ```bash
-git clone https://github.com/darkplegug/Simple-Marketplace.git
+git clone https://github.com/ammarrashiddd/Simple-Marketplace.git
 cd Simple-Marketplace
